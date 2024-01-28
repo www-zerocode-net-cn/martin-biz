@@ -1,0 +1,16 @@
+[submodule "martin-biz-auth"]
+	path = martin-biz-auth
+	url = git@github.com:www-zerocode-net-cn/martin-biz-auth.git
+[submodule "martin-biz-resource"]
+	path = martin-biz-resource
+	url = git@github.com:www-zerocode-net-cn/martin-biz-resource.git
+[submodule "martin-biz-sso"]
+	path = martin-biz-sso
+	url = git@github.com:www-zerocode-net-cn/martin-biz-sso.git
+[submodule "martin-biz-swagger"]
+	path = martin-biz-swagger
+	url = git@github.com:www-zerocode-net-cn/martin-biz-swagger.git
+[submodule "martin-biz-system"]
+	path = martin-biz-system
+	url = git@github.com:www-zerocode-net-cn/martin-biz-system.git
+
